@@ -8,8 +8,8 @@
 pip install -r requirements.txt
 ```
 
-2. Run `main.py`
+2. Run `src/main.py`
 
 ```
-python main.py
+python src/main.py
 ```
